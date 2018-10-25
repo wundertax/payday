@@ -1,4 +1,8 @@
 en:
+  number:
+    format:
+      delimiter: ","
+      separator: "."
   payday:
     status:
       paid: PAID
