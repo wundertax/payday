@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.1.6 (2018-10-25)
+
+* Bumped money gem to 6.13 (was 6.5)
+* Added number format to English locale (for specs to pass).
+
 ## 1.1.4 (2015-05-29)
 
 * Bumped money gem to 6.5 (was 6.1.1)
